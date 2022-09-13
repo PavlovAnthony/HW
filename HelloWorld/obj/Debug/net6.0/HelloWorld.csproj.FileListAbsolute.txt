@@ -1,0 +1,15 @@
+D:\обучение GB разработчик\введение в языки программирования\C#\examples\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+D:\обучение GB разработчик\введение в языки программирования\C#\examples\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+D:\обучение GB разработчик\введение в языки программирования\C#\examples\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+D:\обучение GB разработчик\введение в языки программирования\C#\examples\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+D:\обучение GB разработчик\введение в языки программирования\C#\examples\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+D:\обучение GB разработчик\введение в языки программирования\C#\examples\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+D:\обучение GB разработчик\введение в языки программирования\C#\examples\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение GB разработчик\введение в языки программирования\C#\examples\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+D:\обучение GB разработчик\введение в языки программирования\C#\examples\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+D:\обучение GB разработчик\введение в языки программирования\C#\examples\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\обучение GB разработчик\введение в языки программирования\C#\examples\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+D:\обучение GB разработчик\введение в языки программирования\C#\examples\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+D:\обучение GB разработчик\введение в языки программирования\C#\examples\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+D:\обучение GB разработчик\введение в языки программирования\C#\examples\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+D:\обучение GB разработчик\введение в языки программирования\C#\examples\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
